@@ -1,1 +1,1 @@
-Repositorio público de la organización 2
+Repositorio público de la organización
