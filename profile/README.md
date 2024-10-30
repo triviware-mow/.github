@@ -1,2 +1,1 @@
-# .github
-Repositorio público de la organización
+Repositorio público de la organización 2
